@@ -6,7 +6,7 @@ This project specifically aims to forecast the sales and profit based on the pas
 2. My Approach
 3. Technologies used
 4. Project Objectives
-5. Data Source
+
 
 ## Problem Statement
 Every business aims to estimate future trends of their key performing indicators such as sales, profits, gains etc. The idea behind this is to find out the popularity of a certain product and how its sales can impact the business. Every product category is unique and caters to different customer bases. A thorough insight into the past performance will reveal a lot of components that will enable the business to identify the trends.
